@@ -1,0 +1,15 @@
+{
+  "name": "react-app-rewired-babel-jest",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "test": "CI=true react-app-rewired test"
+  },
+  "resolutions": {
+    "babel-preset-react-app": "10.0.0"
+  },
+  "devDependencies": {
+    "react-app-rewired": "^2.1.9",
+    "react-scripts": "^5.0.0"
+  }
+}
